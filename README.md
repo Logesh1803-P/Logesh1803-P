@@ -18,7 +18,7 @@
   <p align="center">
   <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3488/3488338.png" alt="linked_Logee" height="30" width="40" /></a>  
 
-  <a href="https://www.instagram.com/logesh_183/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="insta_logee" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/logesh_183/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="insta_logee" height="30" width="40" /></a>
   <a href="https://www.facebook.com/logesh.palani.9026/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="fb_logee" height="30" width="40" /></a>
    <a href = "mailto: logesh.ucev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" height="30" width="40" /></a>
   </p>
@@ -33,7 +33,7 @@
 
     </em> 
     <br>
-    <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  
   </p>
    Credits: [Logesh](https://github.com/Logesh1803-P)
   
