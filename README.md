@@ -1,4 +1,4 @@
-<body>
+
 <p align="center">
     <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
   </p>
@@ -35,7 +35,7 @@
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
 
    
-    </body>
+    
     Credits: [Logesh](https://github.com/Logesh1803-P)
   
     Last Edited on: 27/09/2022
