@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Logesh1803-P
+- 👋 Hi, I’m Logesh
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning flask
 - 📫 How to reach me 
