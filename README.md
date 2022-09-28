@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Lives-India-success" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
   </p>
-  <hr>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Logesh </h1>
   <h3 align="center">Web Developing | Cloud app Developing </h3>
   <p align="center">
@@ -34,7 +34,7 @@
       Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>, India (" Wisdom is all wealth ")</a>. <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
     <br>
-    <hr>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
 <a href="https://github.com/Logesh1803-P/">
