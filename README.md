@@ -3,7 +3,7 @@
 </p>
 <br>
   
-## <p align="left"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Logesh1803-P&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
