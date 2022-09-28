@@ -40,13 +40,13 @@
 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
     <br>
-</p>
 
 
-     ## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+    <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
     <br>
-   
-    
+ 
+</p>  
 
 <p align="center">
     <a href="https://github.com/Logesh1803-P/">
