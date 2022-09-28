@@ -11,8 +11,9 @@
     <img src="https://img.shields.io/badge/Focus-Web%20Developing-brightgreen" />
     <img src="https://img.shields.io/badge/Lives-India-success" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
+     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
   <!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Logesh </h1>
 <h3 align="center">Web Developing | Cloud app Developing </h3>
