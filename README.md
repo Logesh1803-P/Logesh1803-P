@@ -16,7 +16,9 @@
   
   <!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Logesh </h1>
-<h3 align="center">Web Developing | Cloud app Developing </h3>
+<p align="center">
+  <a href="https://github.com//readme-typing-svg"><img src="https:/Logesh1803-P/readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;&center=true&width=500&height=50"></a>
+</p>
 <br>
 
 
