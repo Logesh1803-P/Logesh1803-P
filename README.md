@@ -27,13 +27,13 @@
 
 <p align="center">
     <em>
-      Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>, India (" Wisdom is all wealth ")</a>. <br>
+      Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b></a>, India (" Wisdom is all wealth "). <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
 
     
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
   <a href="https://github.com/Logesh1803-P/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Logesh1803-P&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
