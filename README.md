@@ -31,9 +31,7 @@
     <em>
       Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>, India (" Wisdom is all wealth "). <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
-         
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
-    <!-- <hr> -->
+         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <!-- <hr> -->
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
@@ -45,10 +43,11 @@
   <a href="https://github.com/Logesh1803-P">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh1803-P&theme=blueberry" width="380"/>
   </a>
+     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
 </p>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
+
 <br>
 <p align="center">
     <a href="https://github.com/Logesh1803-P"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logesh1803-P&theme=tokyonight&hide_border=true"  width="520" alt="Logesh1803-P"/></a>
