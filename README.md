@@ -29,7 +29,7 @@
 
 <p align="center">
     <em>
-      Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>, India (" Wisdom is all wealth "). <br>
+      Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>,</a> India (" Wisdom is all wealth "). <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
        
 </p>
