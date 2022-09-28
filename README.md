@@ -31,9 +31,11 @@
     <em>
       Hello, I am Logesh a <b>final year</b> undergraduate from <a href="https://www.aucev.edu.in"> <b>University Collage of Engineering Villupuram</b>, India (" Wisdom is all wealth "). <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
-         
-         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <!-- <hr> -->
+       
 </p>
+   <p>
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
