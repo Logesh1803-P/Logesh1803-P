@@ -54,6 +54,15 @@
      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
 </p>
 
+## <b>⚡ Recent GitHub Activity</b>
+<P align="center">
+   <br/>
+   <a href="https://github.com/Logesh1803-P"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Logesh1803-P&custom_title=Logesh1803-P%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
+     
+</p>     
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b>
 
 - 📋 Languages: 
