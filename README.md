@@ -36,25 +36,28 @@
       <br>
       <b>a passionate self-learner</b> <img src="https://cdn-icons-png.flaticon.com/512/7075/7075302.png" width="40px" height="30">and a <b>Computer Science Engineer</b>&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5065/5065181.png" width="36px">
       <br>
-</p>
+
 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
-
-<p>
-     ## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> <b>Github Stats</b>
     <br>
-</p>    
+</p>
+
+
+     ## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+    <br>
+   
     
 
 <p align="center">
     <a href="https://github.com/Logesh1803-P/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Logesh1803-P&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="logesh"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Logesh1803-P&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
     </a>
- 
+     
     <a href="https://github.com/Logesh1803-P">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh1803-P&theme=blueberry" width="380" alt="logesh"/></a>
-    
-</p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh1803-P&theme=blueberry" width="380"/>
+      </a>
+   
+</p> 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <!-- <hr> -->
