@@ -57,7 +57,8 @@
 <a href="https://github.com/Logesh1803-P"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logesh1803-P&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Logesh1803-P"/></a><br>
      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
 </p>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b>
 
 - 📋 Languages: 
     
