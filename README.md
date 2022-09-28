@@ -41,19 +41,19 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a><!-- <hr> -->
 
 <p>
-     ## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+     ## <img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> <b>Github Stats</b>
     <br>
 </p>    
     
 
 <p align="center">
     <a href="https://github.com/Logesh1803-P/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Logesh1803-P&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Logesh1803-P&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="logesh"/>
     </a>
  
     <a href="https://github.com/Logesh1803-P">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh1803-P&theme=blueberry" width="380"/>
-    </a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh1803-P&theme=blueberry" width="380" alt="logesh"/></a>
+    
 </p>
 <br>
 
